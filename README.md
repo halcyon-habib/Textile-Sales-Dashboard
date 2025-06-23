@@ -47,7 +47,7 @@ Textile-Sales-Dashboard/
 
 > A sneak peek into the live dashboard 📷
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
